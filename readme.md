@@ -14,7 +14,7 @@ A light color scheme with minimal amount of highlighting for vim.
 CMD+I → Colors → Color Presets → Import... (select alabaster.itermcolors)
 ```
 
-2. Copy `alabaster.vim` into `~/.vim/colors/`
+2. Copy `colors/alabaster.vim` into `~/.vim/colors/`
 
 3. Modify .vimrc
 
