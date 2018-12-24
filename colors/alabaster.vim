@@ -78,7 +78,7 @@ exe "hi! Visual"      "ctermfg=".s:none  "ctermbg=".s:cyan    "cterm=".s:none
 exe "hi! VisualNOS"   "ctermfg=".s:none  "ctermbg=".s:cyan    "cterm=".s:none
 exe "hi! NonText"     "ctermfg=".s:none  "ctermbg=".s:none    "cterm=".s:none
 
-exe "hi! Todo"        "ctermfg=".s:none  "ctermbg=".s:none    "cterm=".s:none
+exe "hi! Todo"        "ctermfg=".s:none  "ctermbg=".s:yellow  "cterm=".s:none
 exe "hi! Underlined"  "ctermfg=".s:none  "ctermbg=".s:none    "cterm=".s:none
 exe "hi! Error"       "ctermfg=".s:black "ctermbg=".s:red     "cterm=".s:none
 exe "hi! ErrorMsg"    "ctermfg=".s:black "ctermbg=".s:red     "cterm=".s:none
