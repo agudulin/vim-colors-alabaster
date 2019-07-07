@@ -97,10 +97,10 @@ exe "hi! Number"          "ctermfg=".s:none  "ctermbg=".s:magenta  "cterm=".s:no
 exe "hi! Boolean"         "ctermfg=".s:none  "ctermbg=".s:magenta  "cterm=".s:none
 exe "hi! Float"           "ctermfg=".s:none  "ctermbg=".s:magenta  "cterm=".s:none
 
-exe "hi! Identifier"      "ctermfg=".s:none  "ctermbg=".s:blue  "cterm=".s:none
-exe "hi! Function"        "ctermfg=".s:none  "ctermbg=".s:blue  "cterm=".s:none
+exe "hi! Identifier"      "ctermfg=".s:none  "ctermbg=".s:blue     "cterm=".s:none
+exe "hi! Function"        "ctermfg=".s:none  "ctermbg=".s:blue     "cterm=".s:none
 
-exe "hi! jsVariableDef"   "ctermfg=".s:none  "ctermbg=".s:blue  "cterm=".s:none
+
 
 " --------------------------------
 " Language constructs
@@ -158,3 +158,8 @@ exe "hi! SpellBad"        "ctermfg=".s:none  "ctermbg=".s:none  "cterm=".s:none
 exe "hi! SpellCap"        "ctermfg=".s:none  "ctermbg=".s:none  "cterm=".s:none
 exe "hi! SpellLocal"      "ctermfg=".s:none  "ctermbg=".s:none  "cterm=".s:none
 exe "hi! SpellRare"       "ctermfg=".s:none  "ctermbg=".s:none  "cterm=".s:none
+
+exe "hi! jsVariableDef"   "ctermfg=".s:none  "ctermbg=".s:blue     "cterm=".s:none
+exe "hi! clojureKeyword"  "ctermfg=".s:none  "ctermbg=".s:magenta  "cterm=".s:none
+exe "hi! clojureSpecial"  "ctermfg=".s:none  "ctermbg=".s:none     "cterm=".s:none
+exe "hi! clojureVarArg"   "ctermfg=".s:none  "ctermbg=".s:none     "cterm=".s:none
